@@ -116,23 +116,23 @@ _________________
 ---
 # 链接
 
-这是一个链接 [Markdown语法](https://markdown.com.cn)。
+这是一个链接 [Markdown语法](https://github.com/account)。
 ```
-这是一个链接 [Markdown语法](https://markdown.com.cn)。
+这是一个链接 [Markdown语法](https://github.com/account)。
 ```
 
 给链接增加 Title
 
-这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
+这是一个链接 [Markdown语法](https://github.com/account "最好的markdown教程")。
 ```
-这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
+这是一个链接 [Markdown语法](https://github.com/account "最好的markdown教程")。
 ```
 
 网址和Email地址
 
-<https://markdown.com.cn>
+<https://github.com/account>
 
-<fake@example.com>
+<Maybezsq@gamil.com>
 
 ```
 <https://markdown.com.cn>
@@ -147,8 +147,8 @@ _________________
 
 给图片增加链接，请将图像的Markdown 括在方括号中，然后将链接添加在圆括号中。
 
-[![主页头像](https://avatars.githubusercontent.com/u/45682963?v=4)](https://markdown.com.cn)
+[![主页头像](https://avatars.githubusercontent.com/u/45682963?v=4)](https://github.com/account)
 ```
-[![主页头像](https://avatars.githubusercontent.com/u/45682963?v=4)](https://markdown.com.cn)
+[![主页头像](https://avatars.githubusercontent.com/u/45682963?v=4)](https://github.com/account)
 ```
 ---
