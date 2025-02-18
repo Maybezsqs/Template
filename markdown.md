@@ -116,16 +116,16 @@ _________________
 ---
 # 链接
 
-这是一个链接 [Markdown语法](https://github.com/account)。
+这是一个链接 [主页](https://github.com/account)。
 ```
-这是一个链接 [Markdown语法](https://github.com/account)。
+这是一个链接 [主页](https://github.com/account)。
 ```
 
 给链接增加 Title
 
-这是一个链接 [Markdown语法](https://github.com/account "最好的markdown教程")。
+这是一个链接 [主页](https://github.com/account "最好的markdown教程")。
 ```
-这是一个链接 [Markdown语法](https://github.com/account "最好的markdown教程")。
+这是一个链接 [主页](https://github.com/account "最好的markdown教程")。
 ```
 
 网址和Email地址
@@ -135,8 +135,9 @@ _________________
 <Maybezsq@gamil.com>
 
 ```
-<https://markdown.com.cn>
-<fake@example.com>
+<https://github.com/account>
+
+<Maybezsq@gamil.com>
 ```
 ---
 # 图片
