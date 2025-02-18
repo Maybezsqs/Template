@@ -140,15 +140,15 @@ _________________
 ```
 ---
 # 图片
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+![这是图片](https://avatars.githubusercontent.com/u/45682963?v=4)
 ```
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+![这是图片](https://avatars.githubusercontent.com/u/45682963?v=4)
 ```
 
 给图片增加链接，请将图像的Markdown 括在方括号中，然后将链接添加在圆括号中。
 
-[![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
+[![主页头像](https://avatars.githubusercontent.com/u/45682963?v=4)](https://markdown.com.cn)
 ```
-[![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
+[![主页头像](https://avatars.githubusercontent.com/u/45682963?v=4)](https://markdown.com.cn)
 ```
 ---
