@@ -1,4 +1,4 @@
----
+***
 # 标题
 
 ## 一级标题
@@ -112,5 +112,43 @@ This text is ***really important***.
 ***
 ---
 _________________
+```
+---
+# 链接
+
+这是一个链接 [Markdown语法](https://markdown.com.cn)。
+```
+这是一个链接 [Markdown语法](https://markdown.com.cn)。
+```
+
+给链接增加 Title
+
+这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
+```
+这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
+```
+
+网址和Email地址
+
+<https://markdown.com.cn>
+
+<fake@example.com>
+
+```
+<https://markdown.com.cn>
+<fake@example.com>
+```
+---
+# 图片
+![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+```
+![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+```
+
+给图片增加链接，请将图像的Markdown 括在方括号中，然后将链接添加在圆括号中。
+
+[![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
+```
+[![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
 ```
 ---
