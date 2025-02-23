@@ -14,3 +14,30 @@
 | 塔乌   | τ      | Τ      |         | `\tau`              | `\Tau`         |                    | 宇普西隆 | υ    | Υ      |         | `\upsilon`          | `\Upsilon`     |                    |
 | 菲     | φ      | Φ      | ϕ       | `\phi`              | `\Phi`         | `\varphi`          | 凯     | χ      | Χ      |         | `\chi`              | `\Chi`         |                    |
 | 赛     | ψ      | Ψ      |         | `\psi`              | `\Psi`         |                    | 欧米茄 | ω      | Ω      |         | `\omega`            | `\Omega`       |                    |
+
+
+
+
+
+
+
+
+\begin{table}[H]
+\centering
+\footnotesize
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{l l l l l l}
+\toprule
+  & \multicolumn{2}{l}{Branch Net}  & \multicolumn{2}{l}{Trunk Net} & \multirow{2}{*}{Training steps}  \\
+  \cmidrule(lr){2-3} \cmidrule(lr){4-5}
+  & width $\times$ depth  & Activation & width $\times$ depth & Activation & \\
+\midrule
+  {Sec. 3.3} & $64 \times 2$   & tanh & $64 \times 3$ & tanh &  100,000 \\
+  {Sec. 3.4} & $256 \times 2$   & tanh  & $128 \times 2$ & tanh &  200,000 \\
+\bottomrule
+\end{tabular}
+\caption{
+Architecture and training steps of DeepONets in each case. 
+}
+\label{table:deeponet_arch}
+\end{table}
