@@ -21,7 +21,7 @@
 
 
 
-
+```latex
 \begin{table}[H]
 \centering
 \footnotesize
@@ -41,3 +41,4 @@ Architecture and training steps of DeepONets in each case.
 }
 \label{table:deeponet_arch}
 \end{table}
+```
